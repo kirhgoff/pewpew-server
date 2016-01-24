@@ -11,7 +11,7 @@ class Application extends UserController
 
 
 	def index = Action {
-		Ok(views.html.index("Your new application is ready."))
+		Ok(views.html.index("Your new appl2ication is ready."))
 	}
 
 
